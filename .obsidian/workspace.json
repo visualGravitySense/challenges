@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "80e1d9f133c693dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "426cc42ae8ebacb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "873d9815a6607c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contact Form/contact form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59496458c6a9559f",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ff3b0f8a190eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47799060a3559578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09b471b470c6a6ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "393b3cf0f0bf09be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8edcaf7fbd3473e",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb89cf4858ee4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f376e381b64ccc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contact Form/contact form.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef709f34b65389fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contact Form/contact form.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f44a98e150416d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01ebb85bada7ca7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contact Form/contact form.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "873d9815a6607c3c",
+  "lastOpenFiles": [
+    "CodePen weekly.md",
+    "Contact Form/contact form.md",
+    "Contact Form",
+    "accordion/accordion.md",
+    "accordion/accordion.vue",
+    "accordion"
+  ]
+}
